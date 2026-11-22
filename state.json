@@ -1,0 +1,27 @@
+{
+  "quizzes": [
+    {
+      "question": "파이썬에서 출력할 때 쓰는 함수는?",
+      "answer": "print"
+    },
+    {
+      "question": "리스트를 감싸는 기호는? (대괄호/소괄호)",
+      "answer": "대괄호"
+    },
+    {
+      "question": "Git에서 변경 기록을 저장하는 명령어는?",
+      "answer": "commit"
+    },
+    {
+      "question": "파이썬에서 키보드 입력을 받는 함수는?",
+      "answer": "input"
+    },
+    {
+      "question": "Git에서 현재 변경 상태를 확인하는 명령어는?",
+      "answer": "status"
+    }
+  ],
+  "played": 0,
+  "correct": 0,
+  "best_score": 0
+}

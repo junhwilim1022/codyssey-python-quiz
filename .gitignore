@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+GIT_SCREENSHOT_GUIDE.md
+PRACTICE_MISTAKES.md
+PUSH_GUIDE.md
