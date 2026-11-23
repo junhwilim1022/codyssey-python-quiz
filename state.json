@@ -1,27 +1,75 @@
 {
   "quizzes": [
     {
-      "question": "파이썬에서 출력할 때 쓰는 함수는?",
-      "answer": "print"
+      "question": "Python에서 화면에 글자를 출력하는 함수는?",
+      "choices": [
+        "input()",
+        "print()",
+        "open()",
+        "len()"
+      ],
+      "answer": 2
     },
     {
-      "question": "리스트를 감싸는 기호는? (대괄호/소괄호)",
-      "answer": "대괄호"
+      "question": "리스트(list)를 만드는 기호는?",
+      "choices": [
+        "{}",
+        "()",
+        "[]",
+        "<>"
+      ],
+      "answer": 3
     },
     {
-      "question": "Git에서 변경 기록을 저장하는 명령어는?",
-      "answer": "commit"
+      "question": "조건에 따라 실행할 코드를 나눌 때 쓰는 키워드는?",
+      "choices": [
+        "if",
+        "for",
+        "class",
+        "import"
+      ],
+      "answer": 1
     },
     {
-      "question": "파이썬에서 키보드 입력을 받는 함수는?",
-      "answer": "input"
+      "question": "반복문 중 조건이 참인 동안 실행되는 것은?",
+      "choices": [
+        "try",
+        "while",
+        "return",
+        "def"
+      ],
+      "answer": 2
     },
     {
-      "question": "Git에서 현재 변경 상태를 확인하는 명령어는?",
-      "answer": "status"
+      "question": "JSON 파일을 읽기 위해 사용할 수 있는 표준 모듈은?",
+      "choices": [
+        "random",
+        "math",
+        "json",
+        "time"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "함수를 정의할 때 사용하는 키워드는?",
+      "choices": [
+        "make",
+        "function",
+        "def",
+        "new"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Python에서 출력할 때 사용하는 함수는?",
+      "choices": [
+        "input",
+        "print",
+        "len",
+        "int"
+      ],
+      "answer": 2
     }
   ],
-  "played": 0,
-  "correct": 0,
-  "best_score": 0
+  "best_score": 14
 }

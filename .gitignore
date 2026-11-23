@@ -1,7 +1,5 @@
 __pycache__/
-*.pyc
+*.py[cod]
 .venv/
 .vscode/
-GIT_SCREENSHOT_GUIDE.md
-PRACTICE_MISTAKES.md
-PUSH_GUIDE.md
+.pytest_cache/
