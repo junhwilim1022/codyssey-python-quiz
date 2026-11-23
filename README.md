@@ -63,3 +63,5 @@ codyssey-python-quiz/
 
 ## Git 실습
 Git 커밋 기록, 브랜치 병합, clone, pull 수행 결과는 저장소 기록과 `docs/screenshots`에 정리합니다.
+
+GitHub 저장소를 clone하고 pull하는 실습을 진행했습니다.
